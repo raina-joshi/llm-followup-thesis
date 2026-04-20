@@ -1,4 +1,4 @@
-##Iterative_Final BERTScore:
+## Iterative_Final BERTScore:
 - Baseline: 0.8597
 - OneStep: 0.8722
 - Iterative_First: 0.8723

@@ -1,0 +1,6 @@
+Method,BERTScore,BLEU
+Yes_No,0.8707,0.0192
+OneStep,0.8688,0.0163
+Decomposition,0.8677,0.0163
+Iterative_Final,0.8664,0.0201
+Baseline,0.8597,0.0184

@@ -60,7 +60,7 @@ Generated Follow-up Question
 Cross-Encoder Reranking
 (Top-5 Documents)
       ↓
-Retrieval Configuration
+Iterative Retrieval Variants
 (Iterative / Iterative Pool / Iterative Pool + Rerank)
       ↓
 Answer Generation
@@ -136,14 +136,4 @@ Iterative strategies can improve evidence coverage, but additional evidence does
 ```
 
 The notebooks contain the experimental implementations, retrieval and QA evaluations, and qualitative evaluation work.
-
-## Thesis
-
-**Title:** Evaluating Follow-up Question Generation Strategies for Complex Multi-hop Question Answering
-
-**Programme:** MSc Data Science, Statistics and Decision Analysis
-**Institution:** Stockholm University
-**Year:** 2026
-
-Industry thesis conducted in collaboration with **Accenture**.
 

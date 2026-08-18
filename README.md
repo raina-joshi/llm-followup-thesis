@@ -70,6 +70,7 @@ Evaluation
 ```
 
 The experiments used **Llama 3.2 3B** in a zero-shot setting for both follow-up question generation and answer generation. BM25 was used for initial retrieval and `ms-marco-MiniLM-L12-v2` for cross-encoder reranking. The pipeline was implemented in Python and executed using Jupyter and Kaggle Notebooks.
+
 For iterative strategies, follow-up questions were generated from intermediate answers to progressively refine the information needed to answer the original question. Evidence across iterations was evaluated using **Iterative, Iterative Pool, and Iterative Pool + Rerank** configurations.
 
 ## Evaluation
